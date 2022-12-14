@@ -12,8 +12,7 @@
     "predeploy": "npm run build"
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/codrops/[NAME].git"
+    "type": "git"
   },
   "keywords": [],
   "author": "Codrops",
